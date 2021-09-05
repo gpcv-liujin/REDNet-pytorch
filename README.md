@@ -14,7 +14,8 @@ This project is based on the implementation of MVSNet-pytorch. Thank the author 
 
 ## Data Preparation
 1. Download the WHU MVS dataset.  http://gpcv.whu.edu.cn/data/WHU_dataset/WHU_MVS_dataset.zip. <br/>
-2. Unzip the dataset to the ```WHU_MVS_dataset``` folder. <br/>
+                (The link in baidu disk: https://pan.baidu.com/s/1aGHFfW26Q8T4oCVa2tPZYQ code：91ae)
+3. Unzip the dataset to the ```WHU_MVS_dataset``` folder. <br/>
 
 
 ## Train
